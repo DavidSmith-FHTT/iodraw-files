@@ -18,6 +18,14 @@
         <mxCell id="vuxabeTCq4xOm1Bja7tc-3" value="Split按钮" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TFvvybJThOUwTTHd3WMv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TFvvybJThOUwTTHd3WMv-1" target="vuxabeTCq4xOm1Bja7tc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFvvybJThOUwTTHd3WMv-5" value="监听到了点击Split" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TFvvybJThOUwTTHd3WMv-4">
+          <mxGeometry x="-0.1967" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TFvvybJThOUwTTHd3WMv-1" value="MenuPorvider" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
         </mxCell>
