@@ -52,7 +52,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TFvvybJThOUwTTHd3WMv-10" value="VideoActionHandleUtils&lt;div&gt;.handleVideoAction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFvvybJThOUwTTHd3WMv-15" value="handleVideoAction中同样判断该action，并进行相应的逻辑实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="290" width="120" height="60" as="geometry" />
