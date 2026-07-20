@@ -12,6 +12,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TFvvybJThOUwTTHd3WMv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vuxabeTCq4xOm1Bja7tc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vuxabeTCq4xOm1Bja7tc-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="150" width="30" height="60" as="geometry" />
         </mxCell>
