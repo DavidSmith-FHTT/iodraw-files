@@ -26,11 +26,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TFvvybJThOUwTTHd3WMv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TFvvybJThOUwTTHd3WMv-1" target="TFvvybJThOUwTTHd3WMv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TFvvybJThOUwTTHd3WMv-1" value="MenuPorvider" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFvvybJThOUwTTHd3WMv-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
