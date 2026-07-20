@@ -18,7 +18,7 @@
         <mxCell id="vuxabeTCq4xOm1Bja7tc-3" value="Split按钮" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TFvvybJThOUwTTHd3WMv-1" value="MenuPorvider" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
