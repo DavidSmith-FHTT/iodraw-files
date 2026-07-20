@@ -15,14 +15,6 @@
         <mxCell id="vuxabeTCq4xOm1Bja7tc-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="150" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vuxabeTCq4xOm1Bja7tc-3" target="TFvvybJThOUwTTHd3WMv-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-3" value="监听到了点击Split" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TFvvybJThOUwTTHd3WMv-2">
-          <mxGeometry x="-0.27" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vuxabeTCq4xOm1Bja7tc-3" value="Split按钮" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
         </mxCell>
