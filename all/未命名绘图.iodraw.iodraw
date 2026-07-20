@@ -29,7 +29,7 @@
         <mxCell id="TFvvybJThOUwTTHd3WMv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TFvvybJThOUwTTHd3WMv-1" target="TFvvybJThOUwTTHd3WMv-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-8" value="&lt;p&gt;创建了一个&lt;strong style=&quot;box-sizing: border-box; caret-color: rgb(0, 122, 255); color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;SF Pro&amp;quot;, sans-serif; font-size: 16px; orphans: 4; text-align: start; white-space: pre-wrap; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;VideoAction.SplitVideoAction() 交给 EditorBridge&lt;/strong&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TFvvybJThOUwTTHd3WMv-7">
+        <mxCell id="TFvvybJThOUwTTHd3WMv-8" value="&lt;p&gt;创建了一个&lt;span style=&quot;box-sizing: border-box; caret-color: rgb(0, 122, 255); color: rgb(51, 51, 51); orphans: 4; text-align: start; white-space: pre-wrap; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px;&quot;&gt;VideoAction.SplitVideoAction() 交给 EditorBridge&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TFvvybJThOUwTTHd3WMv-7">
           <mxGeometry x="-0.07" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
