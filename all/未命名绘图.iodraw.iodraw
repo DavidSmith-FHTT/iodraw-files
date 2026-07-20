@@ -37,6 +37,14 @@
         <mxCell id="TFvvybJThOUwTTHd3WMv-1" value="MenuPorvider" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TFvvybJThOUwTTHd3WMv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TFvvybJThOUwTTHd3WMv-6" target="TFvvybJThOUwTTHd3WMv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFvvybJThOUwTTHd3WMv-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TFvvybJThOUwTTHd3WMv-18">
+          <mxGeometry x="-0.1356" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TFvvybJThOUwTTHd3WMv-6" value="EditorBridge&lt;br&gt;（调度中心）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="420" width="120" height="60" as="geometry" />
         </mxCell>
@@ -44,7 +52,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TFvvybJThOUwTTHd3WMv-10" value="VideoActionHandleUtils&lt;div&gt;.handleVideoAction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFvvybJThOUwTTHd3WMv-15" value="handleVideoAction中同样判断该action，并进行相应的逻辑实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="680" width="120" height="60" as="geometry" />
