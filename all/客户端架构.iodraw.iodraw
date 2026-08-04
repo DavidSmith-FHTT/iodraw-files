@@ -28,6 +28,9 @@
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-7" value="Activity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="140" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TI0fFu3bfjAMBc7dhBvU-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TI0fFu3bfjAMBc7dhBvU-11" target="TI0fFu3bfjAMBc7dhBvU-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-11" value="Controller层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="140" y="140" width="60" height="30" as="geometry" />
         </mxCell>
@@ -199,7 +202,7 @@
           <mxGeometry x="560" y="492.68" width="120" height="83" as="geometry" />
         </mxCell>
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-75" value="&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, system-ui, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial&quot; color=&quot;#252933&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Model层&lt;br&gt;（获取数据）&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="490" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" y="90" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
