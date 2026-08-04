@@ -89,7 +89,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TI0fFu3bfjAMBc7dhBvU-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TI0fFu3bfjAMBc7dhBvU-30" value="&lt;span style=&quot;color: rgb(37, 41, 51); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;system-ui&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Presenter&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
