@@ -160,6 +160,9 @@
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-50" value="MVVM 架构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="454.18" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TI0fFu3bfjAMBc7dhBvU-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TI0fFu3bfjAMBc7dhBvU-52" target="TI0fFu3bfjAMBc7dhBvU-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-52" value="&lt;span style=&quot;color: rgb(37, 41, 51); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;system-ui&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial; font-size: 16px; text-align: start;&quot;&gt;ViewModel&lt;/span&gt;&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, system-ui, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial&quot; color=&quot;#252933&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;层&lt;br&gt;（业务逻辑）&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="495" width="120" height="80" as="geometry" />
         </mxCell>
@@ -193,7 +196,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-66" value="&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, system-ui, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial&quot; color=&quot;#252933&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Model层&lt;br&gt;（获取数据）&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="560" y="494.18" width="120" height="83" as="geometry" />
+          <mxGeometry x="560" y="492.68" width="120" height="83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
