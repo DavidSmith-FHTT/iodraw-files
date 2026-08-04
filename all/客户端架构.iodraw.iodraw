@@ -180,6 +180,12 @@
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-58" value="双向绑定的能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="315" y="610" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TI0fFu3bfjAMBc7dhBvU-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TI0fFu3bfjAMBc7dhBvU-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="520" as="sourcePoint" />
+            <mxPoint x="300" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
