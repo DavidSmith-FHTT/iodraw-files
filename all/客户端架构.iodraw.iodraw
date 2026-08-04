@@ -154,9 +154,6 @@
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-48" value="View层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="140" y="544.1800000000001" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TI0fFu3bfjAMBc7dhBvU-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="TI0fFu3bfjAMBc7dhBvU-49" target="TI0fFu3bfjAMBc7dhBvU-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="50" y="494.18" width="240" height="80" as="geometry" />
         </mxCell>
@@ -188,6 +185,9 @@
             <mxPoint x="250" y="520" as="sourcePoint" />
             <mxPoint x="300" y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TI0fFu3bfjAMBc7dhBvU-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="TI0fFu3bfjAMBc7dhBvU-49" target="TI0fFu3bfjAMBc7dhBvU-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
