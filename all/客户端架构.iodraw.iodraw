@@ -40,6 +40,11 @@
             <mxPoint x="430" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TI0fFu3bfjAMBc7dhBvU-15" value="缺点" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TI0fFu3bfjAMBc7dhBvU-14">
+          <mxGeometry x="0.3161" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
