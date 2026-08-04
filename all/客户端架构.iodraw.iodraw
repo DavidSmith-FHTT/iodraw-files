@@ -160,9 +160,6 @@
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-50" value="MVP 架构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="454.18" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TI0fFu3bfjAMBc7dhBvU-51" value="&lt;font color=&quot;#3333ff&quot;&gt;演变&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="261.85105331994396" y="454.00228052628887" as="geometry" />
-        </mxCell>
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-52" value="&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, system-ui, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial&quot; color=&quot;#252933&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Presenter层&lt;br&gt;（业务逻辑）&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="320" y="494.18" width="120" height="80" as="geometry" />
         </mxCell>
