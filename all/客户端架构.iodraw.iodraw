@@ -196,7 +196,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-66" value="&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, system-ui, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial&quot; color=&quot;#252933&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Model层&lt;br&gt;（获取数据）&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="560" y="494.18" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="514.1800000000001" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
