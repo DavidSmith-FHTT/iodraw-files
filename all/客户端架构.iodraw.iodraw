@@ -69,7 +69,7 @@
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-23" value="Activity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TI0fFu3bfjAMBc7dhBvU-24" value="Controller层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="TI0fFu3bfjAMBc7dhBvU-24" value="View层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="140" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-25" value="MVC架构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
