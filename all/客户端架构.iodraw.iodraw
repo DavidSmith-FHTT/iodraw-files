@@ -34,7 +34,7 @@
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-13" value="Activity中既包括Controller层又包括View层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="180" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TI0fFu3bfjAMBc7dhBvU-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.857;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TI0fFu3bfjAMBc7dhBvU-1">
+        <mxCell id="TI0fFu3bfjAMBc7dhBvU-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.857;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TI0fFu3bfjAMBc7dhBvU-1" target="TI0fFu3bfjAMBc7dhBvU-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="190" as="sourcePoint" />
             <mxPoint x="430" y="140" as="targetPoint" />
