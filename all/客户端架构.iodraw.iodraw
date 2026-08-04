@@ -177,7 +177,7 @@
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-57" value="Data&lt;div&gt;Binding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="320" y="490" width="50" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TI0fFu3bfjAMBc7dhBvU-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TI0fFu3bfjAMBc7dhBvU-58" value="双向绑定的能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="315" y="610" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
