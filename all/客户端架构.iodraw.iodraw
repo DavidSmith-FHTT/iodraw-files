@@ -37,17 +37,6 @@
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-13" value="&lt;font color=&quot;#ff0000&quot;&gt;Activity中既包括Controller层又包括View层（代码冗余）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="180" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TI0fFu3bfjAMBc7dhBvU-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.786;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=#FF0000;" edge="1" parent="1" source="TI0fFu3bfjAMBc7dhBvU-1" target="TI0fFu3bfjAMBc7dhBvU-13">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="190" as="sourcePoint" />
-            <mxPoint x="430" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TI0fFu3bfjAMBc7dhBvU-15" value="&lt;font color=&quot;#ff0000&quot;&gt;缺点&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TI0fFu3bfjAMBc7dhBvU-14">
-          <mxGeometry x="0.3161" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="260" width="410" height="100" as="geometry" />
         </mxCell>
@@ -203,6 +192,17 @@
         </mxCell>
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-75" value="&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, system-ui, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial&quot; color=&quot;#252933&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Model层&lt;br&gt;（获取数据）&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="360" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TI0fFu3bfjAMBc7dhBvU-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.786;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=#FF0000;" edge="1" parent="1" source="TI0fFu3bfjAMBc7dhBvU-1" target="TI0fFu3bfjAMBc7dhBvU-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="190" as="sourcePoint" />
+            <mxPoint x="430" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TI0fFu3bfjAMBc7dhBvU-15" value="&lt;font color=&quot;#ff0000&quot;&gt;缺点&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TI0fFu3bfjAMBc7dhBvU-14">
+          <mxGeometry x="0.3161" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
