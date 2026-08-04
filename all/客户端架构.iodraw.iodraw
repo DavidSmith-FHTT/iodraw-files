@@ -115,14 +115,17 @@
         </mxCell>
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.857;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="140" as="sourcePoint" />
-            <mxPoint x="410" y="190" as="targetPoint" />
+            <mxPoint x="294" y="350" as="sourcePoint" />
+            <mxPoint x="414" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-38" value="&lt;font color=&quot;#ff0000&quot;&gt;缺点&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TI0fFu3bfjAMBc7dhBvU-37">
           <mxGeometry x="0.3161" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TI0fFu3bfjAMBc7dhBvU-39" value="&lt;font color=&quot;#ff0000&quot;&gt;Activity中既包括Controller层又包括View层（代码冗余）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
