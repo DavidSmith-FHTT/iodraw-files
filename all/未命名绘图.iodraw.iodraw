@@ -19,7 +19,7 @@
         <mxCell id="TI0fFu3bfjAMBc7dhBvU-3" value="布局" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TI0fFu3bfjAMBc7dhBvU-5" value="布局" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TI0fFu3bfjAMBc7dhBvU-5" value="View层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="90" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
