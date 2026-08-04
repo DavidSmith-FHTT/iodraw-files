@@ -87,7 +87,7 @@
             <mxPoint x="560" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TI0fFu3bfjAMBc7dhBvU-29" value="演变" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TI0fFu3bfjAMBc7dhBvU-28">
+        <mxCell id="TI0fFu3bfjAMBc7dhBvU-29" value="&lt;font color=&quot;#3333ff&quot;&gt;演变&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TI0fFu3bfjAMBc7dhBvU-28">
           <mxGeometry x="0.0537" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
