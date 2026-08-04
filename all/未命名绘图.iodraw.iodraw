@@ -1,6 +1,6 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Km3FohTRRrrne4Dp8YlF">
-    <mxGraphModel dx="1434" dy="694" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="785" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,55 +18,55 @@
         <mxCell id="vuxabeTCq4xOm1Bja7tc-3" value="Split按钮" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TFvvybJThOUwTTHd3WMv-1" target="vuxabeTCq4xOm1Bja7tc-3">
+        <mxCell id="TFvvybJThOUwTTHd3WMv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TFvvybJThOUwTTHd3WMv-1" target="vuxabeTCq4xOm1Bja7tc-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-5" value="监听到了点击Split" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TFvvybJThOUwTTHd3WMv-4">
+        <mxCell id="TFvvybJThOUwTTHd3WMv-5" value="监听到了点击Split" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TFvvybJThOUwTTHd3WMv-4" vertex="1" connectable="0">
           <mxGeometry x="-0.1967" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TFvvybJThOUwTTHd3WMv-1" target="TFvvybJThOUwTTHd3WMv-6">
+        <mxCell id="TFvvybJThOUwTTHd3WMv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TFvvybJThOUwTTHd3WMv-1" target="TFvvybJThOUwTTHd3WMv-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-8" value="&lt;p&gt;创建了一个&lt;span style=&quot;box-sizing: border-box; caret-color: rgb(0, 122, 255); color: rgb(51, 51, 51); orphans: 4; text-align: start; white-space: pre-wrap; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px;&quot;&gt;VideoAction.SplitVideoAction() 交给 EditorBridge&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TFvvybJThOUwTTHd3WMv-7">
+        <mxCell id="TFvvybJThOUwTTHd3WMv-8" value="&lt;p&gt;创建了一个&lt;span style=&quot;box-sizing: border-box; caret-color: rgb(0, 122, 255); color: rgb(51, 51, 51); orphans: 4; text-align: start; white-space: pre-wrap; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px;&quot;&gt;VideoAction.SplitVideoAction() 交给 EditorBridge&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TFvvybJThOUwTTHd3WMv-7" vertex="1" connectable="0">
           <mxGeometry x="-0.07" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-1" value="MenuPorvider" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TFvvybJThOUwTTHd3WMv-1" value="MenuPorvider" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TFvvybJThOUwTTHd3WMv-6" target="TFvvybJThOUwTTHd3WMv-10">
+        <mxCell id="TFvvybJThOUwTTHd3WMv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TFvvybJThOUwTTHd3WMv-6" target="TFvvybJThOUwTTHd3WMv-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-19" value="EditorBridge判断是什么action&lt;div&gt;然后找到对应action的HandleUtils&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TFvvybJThOUwTTHd3WMv-18">
+        <mxCell id="TFvvybJThOUwTTHd3WMv-19" value="EditorBridge判断是什么action&lt;div&gt;然后找到对应action的HandleUtils&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TFvvybJThOUwTTHd3WMv-18" vertex="1" connectable="0">
           <mxGeometry x="-0.1356" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-6" value="EditorBridge&lt;br&gt;（调度中心）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TFvvybJThOUwTTHd3WMv-6" value="EditorBridge&lt;br&gt;（调度中心）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TFvvybJThOUwTTHd3WMv-10" target="TFvvybJThOUwTTHd3WMv-15">
+        <mxCell id="TFvvybJThOUwTTHd3WMv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TFvvybJThOUwTTHd3WMv-10" target="TFvvybJThOUwTTHd3WMv-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-10" value="VideoActionHandleUtils&lt;div&gt;.handleVideoAction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TFvvybJThOUwTTHd3WMv-10" value="VideoActionHandleUtils&lt;div&gt;.handleVideoAction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-15" value="handleVideoAction中同样判断该action，并进行相应的逻辑实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TFvvybJThOUwTTHd3WMv-15" value="handleVideoAction中同样判断该action，并进行相应的逻辑实现" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-17" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 12px;line-height: 18px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;暂停预览&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;  ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;把当前时间对齐到视频帧&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;  ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;判断片段是否太短，能不能切&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;  ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;调用 videoEditor.splitTrackAsset(...)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;  ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;VideoProject 被修改，原片段切成两个片段&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;  ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;修复擦除、音效、AI 特效等附带状态&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;  ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;更新当前选中片段&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;  ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;保存撤销步骤&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;  ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;预览跳到新片段开头&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TFvvybJThOUwTTHd3WMv-17" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 12px;line-height: 18px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;暂停预览&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;  ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;把当前时间对齐到视频帧&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;  ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;判断片段是否太短，能不能切&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;  ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;调用 videoEditor.splitTrackAsset(...)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;  ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;VideoProject 被修改，原片段切成两个片段&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;  ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;修复擦除、音效、AI 特效等附带状态&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;  ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;更新当前选中片段&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;  ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;保存撤销步骤&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;  ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;预览跳到新片段开头&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="490" width="260" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.013;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TFvvybJThOUwTTHd3WMv-15" target="TFvvybJThOUwTTHd3WMv-17">
+        <mxCell id="TFvvybJThOUwTTHd3WMv-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.013;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TFvvybJThOUwTTHd3WMv-15" target="TFvvybJThOUwTTHd3WMv-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="500" as="sourcePoint" />
             <mxPoint x="440" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFvvybJThOUwTTHd3WMv-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TFvvybJThOUwTTHd3WMv-15" target="TFvvybJThOUwTTHd3WMv-17">
+        <mxCell id="TFvvybJThOUwTTHd3WMv-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="TFvvybJThOUwTTHd3WMv-15" target="TFvvybJThOUwTTHd3WMv-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="840" as="sourcePoint" />
             <mxPoint x="360" y="790" as="targetPoint" />
